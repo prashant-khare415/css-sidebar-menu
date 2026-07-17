@@ -15,15 +15,6 @@ A responsive sidebar navigation menu built using HTML and CSS.
 - Font Awesome
 - Google Fonts
 
-## Project Structure
-```
-css-sidebar-menu/
-│── index.html
-│── style.css
-│── photo.jpg
-│── README.md
-```
-
 ## Preview
 A modern sidebar navigation menu with a full-screen background image and interactive icons.
 
